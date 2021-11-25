@@ -1,0 +1,29 @@
+h1{
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-color:darkgray;
+    border-color: solid violet;
+
+}
+.btn{
+    text-align: center;
+}
+.drum{
+    padding:5px;
+    margin-left:25px;
+    border-radius: 15px;
+
+
+}
+img{
+    width: 150px;
+    height:150px;
+}
+.drum:hover{
+    cursor:pointer;
+
+}
+body{
+    background-color:rgb(235, 18, 83);
+}
